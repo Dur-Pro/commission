@@ -7,6 +7,8 @@
         <field name="report_name">sale_commission.report_settlement</field>
         <field name="report_file">sale_commission.report_settlement</field>
         <field name="binding_model_id" ref="model_sale_commission_settlement" />
+<!--
         <field name="binding_type">report</field>
+-->
     </record>
 </odoo>
